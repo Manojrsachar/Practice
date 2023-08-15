@@ -1,0 +1,7 @@
+Question 2 :Temperature Conversion
+
+Scenario: Bob is working on a weather app that needs to convert temperatures between Celsius and Fahrenheit.
+ He's aware of the conversion formulas but needs to write methods to perform the conversions accurately.
+
+Task: Bob needs your assistance in creating a Java program to handle temperature conversions. He has provided you 
+with the conversion formulas and wants you to guide him through the process of building the necessary methods and user interface.

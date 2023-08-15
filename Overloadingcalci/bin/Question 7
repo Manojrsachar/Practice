@@ -1,0 +1,8 @@
+Question 4: Method Overloading Calculator
+
+Scenario: William wants to create a calculator that performs addition, subtraction, multiplication, 
+and division using method overloading. He needs a program that takes two numbers and an operator as input and displays the result.
+
+**Hint**: William can create four overloaded methods, each named `calculate`, to handle different operations. 
+Each method should take two numbers as inputs and return the result of the respective operation. Inside each method,
+ he can use a `switch` statement to determine the operation and perform the calculation accordingly.

@@ -1,0 +1,15 @@
+Question 3: Bitwise Swapper
+
+**Scenario**: Noah is working on a program that swaps the values of two variables using bitwise XOR operation. 
+He needs a program that takes two integers as input and displays the swapped values.
+
+**Hint**: Noah can create a method named `swapUsingBitwise` that takes two integers as inputs and swaps their 
+values using bitwise XOR. He should use a temporary variable to hold one of the values during swapping.
+
+Sample Output:
+
+Enter the first integer: 5
+
+Enter the second integer: 8
+
+After swapping: First = 8, Second = 5

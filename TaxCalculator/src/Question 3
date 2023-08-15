@@ -1,0 +1,17 @@
+Question 1: Tax Calculator
+
+**Scenario**: Sophia is building a tax calculator for a retail store. She needs a program that calculates the total cost
+ including tax for a given purchase amount and tax rate.
+
+**Hint**: Sophia can create a method named `calculateTotalWithTax` that takes two doubles (purchase amount and tax rate)
+ as inputs and returns the calculated total cost. Inside the method, she should calculate the tax amount using the 
+ formula `purchase amount * tax rate`, then add it to the purchase amount.
+ 
+
+Sample Output:
+
+Enter the purchase amount: 100
+
+Enter the tax rate (in decimal form): 0.08
+
+Total cost including tax: 108.0

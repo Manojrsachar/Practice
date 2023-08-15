@@ -1,0 +1,16 @@
+Question 29: Logical Operator Validator
+
+**Scenario**: Ethan is developing a user registration system. He needs a program that validates user input based on multiple
+ conditions using logical operators.
+
+**Hint**: Ethan can create a method named `isValidInput` that takes two booleans (one indicating if the input is valid and
+ the other indicating if the input meets a certain condition) as inputs and returns a boolean value. Inside the method, 
+ he can use logical operators (AND, OR) to combine the conditions and determine if the input is valid.
+
+Sample Output:
+
+Is input valid (true/false): true
+
+Does input meet a certain condition (true/false): true
+
+Input is valid.

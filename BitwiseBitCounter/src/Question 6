@@ -1,0 +1,13 @@
+Question 31: Bitwise Bit Counter
+
+**Scenario**: Mia is exploring bitwise operations and wants to count the number of set (1) bits in a given integer.
+ She needs a program that takes an integer as input and displays the count of set bits.
+
+**Hint**: Mia can create a method named `countSetBits` that takes an integer as input and returns the count of set bits.
+ Inside the method, she can use bitwise AND operation with a mask to check the value of each bit.
+
+Sample Output:
+
+Enter an integer: 22
+
+Number of set bits: 3

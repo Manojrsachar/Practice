@@ -1,0 +1,6 @@
+Question 1: The Calculator Dilemma
+
+Scenario: Alice is building a calculator program in Java. She wants to create a method that can perform basic arithmetic operations like addition,
+ subtraction, multiplication, and division. She's not sure how to design the method to handle different operations.
+
+Hint: Encourage Alice to use a switch statement to determine the operation and appropriate mathematical logic for each case.
