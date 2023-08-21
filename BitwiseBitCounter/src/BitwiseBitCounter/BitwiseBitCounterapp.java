@@ -14,7 +14,8 @@ public class BitwiseBitCounterapp {
        
     }
 
-    public static int countSetBits(int num) {
+    public static int countSetBits(int num)
+    {
         int count = 0;
 
         while (num != 0) {
